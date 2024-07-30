@@ -20,7 +20,10 @@ body {
 }
 
 .stats-container {
-    display: flex;
+    display: flex; /* Flex box switched on - default main axis of horizontal */
+    align-items: flex-start; /* Align items at start of cross axis */
+    cursor: pointer; /* Make the cursor a pointer */
+    box-shadow: 0 0 30px lightblue; /* box-shadow */
 }
 
 .stats-card {
@@ -72,4 +75,41 @@ button {
     padding: 1%;
     margin: 1%;
     border-radius: 7px;
+}
+
+/* NavBar rules */
+/* General style rule set for all items in ul */
+.navbar ul {
+    list-style-type: none;
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    margin-bottom: 120px;
+    display: flex;
+    justify-content: center;
+}
+
+/* Style rule set for individual li */
+.navbar ul li {
+    float: center;
+    margin: 10px;
+}
+
+
+/* Style rule set for individual li link */
+.navbar ul li a {
+    display: block;
+    font-family: Arial;
+    color:black;
+    text-align: center;
+    padding: 0;
+    font-size: 16px;
+    text-decoration: none;
+}
+
+/* Style rule set for hovered link */
+.navbar ul li a:hover 
+{
+    font-weight: bold;
 }
