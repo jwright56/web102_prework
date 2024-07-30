@@ -23,6 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
+<img src='https://i.imgur.com/hz560dD.gif' title='Video Demo' width='' alt='Video Demo' />
 <img src='https://i.imgur.com/rYhbMRz.gif' title='Video Demo' width='' alt='Video Demo' />
 
 GIF created with ScreenToGif 
