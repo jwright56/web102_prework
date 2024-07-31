@@ -23,9 +23,9 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src= 'https://i.imgur.com/RXGGQm8.gif' title='Video Demo' alt='Video Demo' />
+<img src='./assets/Web102_Prework.gif.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with ScreenToGif 
+GIF created with LICECap 
 
 ## Notes
 
